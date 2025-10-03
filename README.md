@@ -41,7 +41,7 @@ This project is content-based, meaning it recommends movies by analyzing their f
 Dataset source: TMDB (The Movie Database)
 
 Files used:
-tmdb_5000_movies.csv
+tmdb_5000_movies.csv,
 tmdb_5000_credits.csv
 
 Relevant columns:movie_id,title,overview,genres,keywords,cast,crew
